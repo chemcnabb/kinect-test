@@ -105,6 +105,10 @@
 //})();
 //
 
+// I borrowed this structure from Chompy dogs uber simple state machine -
+// http://chompydog.com/2014/10/05/simple-finite-state-machine-in-javascript.html
+
+
 /*
  Johnst State Machine
  */
