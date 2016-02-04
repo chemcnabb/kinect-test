@@ -138,8 +138,7 @@ var TeamMember = function() {
     function logStateChange(newState){
         console.log("state changed to "+newState);
     }
-
-    // Cool: declarative state transitions!!!
+    
     this.fsm = new KinectStatemachine({
             // state
             "ready" : {
